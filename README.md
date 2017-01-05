@@ -18,8 +18,8 @@ http://stevelosh.com/blog/2016/06/diamond-square/
 # Results
 The following images show the result of this algorithm. The water depicted in the photos are NOT a result of the algorithm; this was added seperatly to show height.
 
-![Diamond Square Result](http://www.robertstivanson.com/images/DiamondSquare1.png)
-![Diamond Square Result](http://www.robertstivanson.com/images/DiamondSquare2.png)
-![Diamond Square Result](http://www.robertstivanson.com/images/DiamondSquare3.png)
-![Diamond Square Result](http://www.robertstivanson.com/images/DiamondSquare4.png)
-![Diamond Square Result](http://www.robertstivanson.com/images/DiamondSquare5.png)
+![Diamond Square Result](results/DiamondSquare1.png)
+![Diamond Square Result](results/DiamondSquare2.png)
+![Diamond Square Result](results/DiamondSquare3.png)
+![Diamond Square Result](results/DiamondSquare4.png)
+![Diamond Square Result](results/DiamondSquare5.png)
