@@ -21,8 +21,8 @@ public class DiamondSquare : MonoBehaviour {
 	/// Getters / Setters for the roughness value.
 	/// </summary>
 	public float Roughness {
-	get { return roughness; }
-	set { roughness = Mathf.Clamp(value, 0.001f, 1.999f); }
+		get { return roughness; }
+		set { roughness = Mathf.Clamp(value, 0.001f, 1.999f); }
 	}
 
 	/// <summary>
